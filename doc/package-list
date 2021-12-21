@@ -1,0 +1,10 @@
+ga
+ga.fitness
+ga.operationfactories
+ga.operations.crossover
+ga.operations.mutation
+ga.operations.replacement
+ga.operations.selection
+ga.population
+observer
+simulator
