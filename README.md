@@ -3,6 +3,10 @@ __General Overview__
 
 This is an actual implementation of the genatic algorithm, with all its operations, dynamic, and generic to any type of data. It stars by creating a random target and make progress toward it.
 
+I did this project with:
+      Shahla Orujova 
+      Ankit Jha 
+      Dostonbek Matyakubov
 
 This project implemented the following features:
 
